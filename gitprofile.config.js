@@ -26,7 +26,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/ShorkarMael/ShorkarMael.github.io/raw/main/src/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP',
